@@ -4,6 +4,7 @@ backend:
   branch: main
   site_domain: iuliana.pages.dev
   base_url: https://tims-zitadel-instance-oj7iry.zitadel.cloud
+  auth_endpoint: /oauth/v2/authorize
   auth_type: implicit
   app_id: 233785271961867426@iuliana
 media_folder: "static/images/uploads"
